@@ -9,6 +9,8 @@ venv/
 .DS_Store
 
 
+myapp.db
+
 
 # LOGS : On ignore tout le dossier logs...
 logs/*
