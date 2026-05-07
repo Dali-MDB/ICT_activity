@@ -1,0 +1,14 @@
+# .gitignore
+__pycache__/
+*.pyc
+# .gitignore
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
+
+
+
+# LOGS : On ignore tout le dossier logs...
+logs/*
